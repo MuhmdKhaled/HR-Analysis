@@ -1,13 +1,14 @@
 HR Data Analytics Power BI Report
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Project Description:
-
+--------------------------------------------------------------------------------------------------------------------------------------
 This Power BI report provides comprehensive analysis of the employees in a company.
 I made this dashboard trying to help the stakeholder to make the right decisions relating to the employees.
 
--------------------------------------------------------------------------------------------------------------------
-How to Use:
 
+How to Use:
+------------------------------------------------------------------------------------------------------------------------------------------------------
 Download the report file (HR project.pbix).
 
 Open it using Power BI Desktop.
@@ -18,9 +19,8 @@ Interact with the charts to get the specific information you want.
 
 you can also download the raw data if you want to show the data before processing from the data files ( HR Analytics Data.csv & HR employee data.csv)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
 Requirements:
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 Power BI Desktop to open the report file (can be downloaded for free from the Power BI website).
 
 Steps i followed in this report :
@@ -92,9 +92,8 @@ page 6 "Performance & Statisfaction" : showing the num of employees in each perf
 
 ![Page 6](https://github.com/user-attachments/assets/71e31e51-56ae-4f16-b00d-f10877546f52)
 
--------------------------------------------------------------------------------------------------------------------------------------------------
 Contribution :
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 We welcome contributions from other developers. You can open a pull request to submit improvements or fixes to the report.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
