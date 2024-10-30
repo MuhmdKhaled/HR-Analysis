@@ -75,7 +75,7 @@ _ page 2 "Details" : showing detailed informations about promoted and not promot
 
 _page 3 "Service benefits " : showing the employees who need to promotion but they will be retrencehed so they deserve the huge end of service bonus.
 
-![page 3](https://github.com/user-attachments/assets/38266bf6-66e0-4eb8-96bb-70613f8afde5)
+![ppage 33](https://github.com/user-attachments/assets/39ddc10b-595c-46f4-bf5a-b6732ee85b2d)
 
 
 _page 4 "Details in departements" : showing detailed informations about promoted and not promoted employees and the employees who will be retrencehed and who will not be retrencehd in each departement. 
